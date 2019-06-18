@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kruzr Test</string>
+    <string name="submitted">Submitted</string>
+    <string name="error_edittext">Fill all information</string>
+</resources>
